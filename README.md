@@ -9,7 +9,7 @@ This program accepts an integer input of wind speed and outputs the correspondin
 All information will be taken from **PAGASA** guidelines as of March 2022.
 
 ## Infographic
-<img src="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/tropical-cyclone/old%20and%20new.jpg" alt="PAGASA Infographic, if you see this text that means there is an error with the link." width="50%">
+<img src="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/tropical-cyclone/old%20and%20new.jpg" alt="PAGASA Infographic, if you see this text that means there is an error with the link." width="60%">
 
 ## Expected Output
 **Test cases:**
