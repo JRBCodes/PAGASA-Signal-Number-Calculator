@@ -6,7 +6,7 @@ This program accepts an integer input of wind speed and outputs the correspondin
 - **Potential impact** (minor to extreme)
 - **Warning lead time.** (36 to 12 hrs)
 
-All information will be taken from **[PAGASA](https://www.pagasa.dost.gov.ph/learning-tools/tropical-cyclone-wind-signal)** guidelines as of March 2022.
+All information is taken from **[PAGASA](https://www.pagasa.dost.gov.ph/learning-tools/tropical-cyclone-wind-signal)** guidelines as of March 2022.
 
 ## Infographic
 <img src="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/tropical-cyclone/old%20and%20new.jpg" alt="PAGASA Infographic, if you see this text that means there is an error with the link." width="60%">
