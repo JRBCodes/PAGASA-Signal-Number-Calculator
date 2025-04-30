@@ -43,3 +43,6 @@ All information is taken from **[PAGASA](https://www.pagasa.dost.gov.ph/learning
     Type: Super Typhoon
     Lead Time: 12 h
     Impact: Catastrophic
+
+## Link to Slides
+Public view link: **[Create Your SySTEM](https://www.canva.com/design/DAGkTOHuzw4/shJy_3ikKQJWoMt4e29bUQ/view?utm_content=DAGkTOHuzw4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcb69a864d8)**
