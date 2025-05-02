@@ -9,11 +9,28 @@ This program accepts an integer input of wind speed and outputs the correspondin
 All information are taken from **[PAGASA](https://www.pagasa.dost.gov.ph/learning-tools/tropical-cyclone-wind-signal)** guidelines as of March 2022.
 
 ## Infographic
-<img src="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/tropical-cyclone/old%20and%20new.jpg" alt="PAGASA Infographic, if you see this text that means there is an error with the link." width="70%">
+<img src="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/tropical-cyclone/old%20and%20new.jpg" alt="PAGASA Infographic, if you see this text that means there is an error with the link." width="60%">
 
 ## Continue this code
-<img src="assets/continue_code.png" alt="Example Code" width="70%">
+```python
+wind_speed = int(input("Input cyclone wind speed (km/h): "))
 
+if wind_speed <= 61:
+    print("Signal no. 1")
+    #print more info
+
+elif 62 <= wind_speed <= 88:
+    print("Signal no. 2")
+    #print more info
+    
+elif 89 <= wind_speed <= 117:
+    print("Signal no. 3")
+    #print more info
+
+# Add signal number 5
+else: # Program ends too early
+    print("Signal no. 4")
+```
 ## Expected Output
 **Test cases:**
 
