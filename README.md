@@ -9,7 +9,10 @@ This program accepts an integer input of wind speed and outputs the correspondin
 All information are taken from **[PAGASA](https://www.pagasa.dost.gov.ph/learning-tools/tropical-cyclone-wind-signal)** guidelines as of March 2022.
 
 ## Infographic
-<img src="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/tropical-cyclone/old%20and%20new.jpg" alt="PAGASA Infographic, if you see this text that means there is an error with the link." width="60%">
+<img src="https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/tropical-cyclone/old%20and%20new.jpg" alt="PAGASA Infographic, if you see this text that means there is an error with the link." width="70%">
+
+## Continue this code
+<img src="assets/continue_code.png" alt="Example Code" width="70%">
 
 ## Expected Output
 **Test cases:**
